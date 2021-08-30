@@ -1,2 +1,2 @@
 # INT_219_Assignment1
-Submitted by Ayush CHourasia
+Submitted by Ayush Chourasia
